@@ -1,0 +1,17 @@
+Request Body is : 
+
+{
+    "name": "monika",
+    "job": "qa"
+}
+
+Status Code is :201
+
+Response Body  is :
+
+{
+    "name": "monika",
+    "job": "qa",
+    "id": "256",
+    "createdAt": "2023-07-03T09:08:51.188Z"
+}
